@@ -6,3 +6,7 @@ git commit -m "Commit initial"
 git branch shresth
 git checkout shresth
 git branch
+git checkout master
+git merge shresth
+git commit -m "testing"
+
