@@ -1,0 +1,2 @@
+Xcopy D:\edureka\Git-Lab\sample-project\*.* D:\edureka\Git-Lab\Module2-Git-Assignment-1\ /E
+git init
