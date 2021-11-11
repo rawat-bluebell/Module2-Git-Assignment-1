@@ -9,4 +9,6 @@ git branch
 git checkout master
 git merge shresth
 git commit -m "testing"
+git remote add bluebell https://github.com/rawat-bluebell/Module2-Git-Assignment-1.git
+push
 
